@@ -48,7 +48,7 @@ body {
 
 .introduction {
     display: grid;
-    grid-template-columns: 50% 15% 35%;     
+    grid-template-columns: 42.5% 15% 42.5%;     
     height: 35vh;
     padding: 2%;
     overflow-y: auto;
